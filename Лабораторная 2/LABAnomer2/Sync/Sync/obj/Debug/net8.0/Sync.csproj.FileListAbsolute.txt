@@ -1,0 +1,28 @@
+C:\Users\adgav\Downloads\Telegram Desktop\--master (1)\--master\OOPLAB2\Sync\Sync\bin\Debug\net8.0\Sync.exe
+C:\Users\adgav\Downloads\Telegram Desktop\--master (1)\--master\OOPLAB2\Sync\Sync\bin\Debug\net8.0\Sync.deps.json
+C:\Users\adgav\Downloads\Telegram Desktop\--master (1)\--master\OOPLAB2\Sync\Sync\bin\Debug\net8.0\Sync.runtimeconfig.json
+C:\Users\adgav\Downloads\Telegram Desktop\--master (1)\--master\OOPLAB2\Sync\Sync\bin\Debug\net8.0\Sync.dll
+C:\Users\adgav\Downloads\Telegram Desktop\--master (1)\--master\OOPLAB2\Sync\Sync\bin\Debug\net8.0\Sync.pdb
+C:\Users\adgav\Downloads\Telegram Desktop\--master (1)\--master\OOPLAB2\Sync\Sync\obj\Debug\net8.0\Sync.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\adgav\Downloads\Telegram Desktop\--master (1)\--master\OOPLAB2\Sync\Sync\obj\Debug\net8.0\Sync.AssemblyInfoInputs.cache
+C:\Users\adgav\Downloads\Telegram Desktop\--master (1)\--master\OOPLAB2\Sync\Sync\obj\Debug\net8.0\Sync.AssemblyInfo.cs
+C:\Users\adgav\Downloads\Telegram Desktop\--master (1)\--master\OOPLAB2\Sync\Sync\obj\Debug\net8.0\Sync.csproj.CoreCompileInputs.cache
+C:\Users\adgav\Downloads\Telegram Desktop\--master (1)\--master\OOPLAB2\Sync\Sync\obj\Debug\net8.0\Sync.dll
+C:\Users\adgav\Downloads\Telegram Desktop\--master (1)\--master\OOPLAB2\Sync\Sync\obj\Debug\net8.0\refint\Sync.dll
+C:\Users\adgav\Downloads\Telegram Desktop\--master (1)\--master\OOPLAB2\Sync\Sync\obj\Debug\net8.0\Sync.pdb
+C:\Users\adgav\Downloads\Telegram Desktop\--master (1)\--master\OOPLAB2\Sync\Sync\obj\Debug\net8.0\Sync.genruntimeconfig.cache
+C:\Users\adgav\Downloads\Telegram Desktop\--master (1)\--master\OOPLAB2\Sync\Sync\obj\Debug\net8.0\ref\Sync.dll
+C:\Users\adgav\OneDrive\Документы\Станкин\ООП\Лабораторные\Лабораторная 2\LABAnomer2\Sync\Sync\bin\Debug\net8.0\Sync.exe
+C:\Users\adgav\OneDrive\Документы\Станкин\ООП\Лабораторные\Лабораторная 2\LABAnomer2\Sync\Sync\bin\Debug\net8.0\Sync.deps.json
+C:\Users\adgav\OneDrive\Документы\Станкин\ООП\Лабораторные\Лабораторная 2\LABAnomer2\Sync\Sync\bin\Debug\net8.0\Sync.runtimeconfig.json
+C:\Users\adgav\OneDrive\Документы\Станкин\ООП\Лабораторные\Лабораторная 2\LABAnomer2\Sync\Sync\bin\Debug\net8.0\Sync.dll
+C:\Users\adgav\OneDrive\Документы\Станкин\ООП\Лабораторные\Лабораторная 2\LABAnomer2\Sync\Sync\bin\Debug\net8.0\Sync.pdb
+C:\Users\adgav\OneDrive\Документы\Станкин\ООП\Лабораторные\Лабораторная 2\LABAnomer2\Sync\Sync\obj\Debug\net8.0\Sync.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\adgav\OneDrive\Документы\Станкин\ООП\Лабораторные\Лабораторная 2\LABAnomer2\Sync\Sync\obj\Debug\net8.0\Sync.AssemblyInfoInputs.cache
+C:\Users\adgav\OneDrive\Документы\Станкин\ООП\Лабораторные\Лабораторная 2\LABAnomer2\Sync\Sync\obj\Debug\net8.0\Sync.AssemblyInfo.cs
+C:\Users\adgav\OneDrive\Документы\Станкин\ООП\Лабораторные\Лабораторная 2\LABAnomer2\Sync\Sync\obj\Debug\net8.0\Sync.csproj.CoreCompileInputs.cache
+C:\Users\adgav\OneDrive\Документы\Станкин\ООП\Лабораторные\Лабораторная 2\LABAnomer2\Sync\Sync\obj\Debug\net8.0\Sync.dll
+C:\Users\adgav\OneDrive\Документы\Станкин\ООП\Лабораторные\Лабораторная 2\LABAnomer2\Sync\Sync\obj\Debug\net8.0\refint\Sync.dll
+C:\Users\adgav\OneDrive\Документы\Станкин\ООП\Лабораторные\Лабораторная 2\LABAnomer2\Sync\Sync\obj\Debug\net8.0\Sync.pdb
+C:\Users\adgav\OneDrive\Документы\Станкин\ООП\Лабораторные\Лабораторная 2\LABAnomer2\Sync\Sync\obj\Debug\net8.0\Sync.genruntimeconfig.cache
+C:\Users\adgav\OneDrive\Документы\Станкин\ООП\Лабораторные\Лабораторная 2\LABAnomer2\Sync\Sync\obj\Debug\net8.0\ref\Sync.dll

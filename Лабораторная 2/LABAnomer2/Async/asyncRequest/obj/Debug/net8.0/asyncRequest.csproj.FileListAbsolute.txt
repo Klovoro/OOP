@@ -1,0 +1,14 @@
+C:\Users\adgav\Downloads\Telegram Desktop\--master (1)\--master\OOPLAB2\Async\asyncRequest\bin\Debug\net8.0\asyncRequest.exe
+C:\Users\adgav\Downloads\Telegram Desktop\--master (1)\--master\OOPLAB2\Async\asyncRequest\bin\Debug\net8.0\asyncRequest.deps.json
+C:\Users\adgav\Downloads\Telegram Desktop\--master (1)\--master\OOPLAB2\Async\asyncRequest\bin\Debug\net8.0\asyncRequest.runtimeconfig.json
+C:\Users\adgav\Downloads\Telegram Desktop\--master (1)\--master\OOPLAB2\Async\asyncRequest\bin\Debug\net8.0\asyncRequest.dll
+C:\Users\adgav\Downloads\Telegram Desktop\--master (1)\--master\OOPLAB2\Async\asyncRequest\bin\Debug\net8.0\asyncRequest.pdb
+C:\Users\adgav\Downloads\Telegram Desktop\--master (1)\--master\OOPLAB2\Async\asyncRequest\obj\Debug\net8.0\asyncRequest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\adgav\Downloads\Telegram Desktop\--master (1)\--master\OOPLAB2\Async\asyncRequest\obj\Debug\net8.0\asyncRequest.AssemblyInfoInputs.cache
+C:\Users\adgav\Downloads\Telegram Desktop\--master (1)\--master\OOPLAB2\Async\asyncRequest\obj\Debug\net8.0\asyncRequest.AssemblyInfo.cs
+C:\Users\adgav\Downloads\Telegram Desktop\--master (1)\--master\OOPLAB2\Async\asyncRequest\obj\Debug\net8.0\asyncRequest.csproj.CoreCompileInputs.cache
+C:\Users\adgav\Downloads\Telegram Desktop\--master (1)\--master\OOPLAB2\Async\asyncRequest\obj\Debug\net8.0\asyncRequest.dll
+C:\Users\adgav\Downloads\Telegram Desktop\--master (1)\--master\OOPLAB2\Async\asyncRequest\obj\Debug\net8.0\refint\asyncRequest.dll
+C:\Users\adgav\Downloads\Telegram Desktop\--master (1)\--master\OOPLAB2\Async\asyncRequest\obj\Debug\net8.0\asyncRequest.pdb
+C:\Users\adgav\Downloads\Telegram Desktop\--master (1)\--master\OOPLAB2\Async\asyncRequest\obj\Debug\net8.0\asyncRequest.genruntimeconfig.cache
+C:\Users\adgav\Downloads\Telegram Desktop\--master (1)\--master\OOPLAB2\Async\asyncRequest\obj\Debug\net8.0\ref\asyncRequest.dll
